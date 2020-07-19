@@ -51,11 +51,13 @@ a {
 #experience {
   background-image: url("./resources/green-chameleon-s9CC2SKySJM-unsplash.jpg");
   background-position-y: -150px;
+  background-size: cover;
 }
 
 #education {
   background-image: url("./resources/jess-bailey-l3N9Q27zULw-unsplash.jpg");
-  background-position-y: -350px;
+  background-position-y: -150px;
+  background-size: cover;
 }
 
 .jumbotron h2 {
