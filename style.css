@@ -51,7 +51,10 @@ a {
 
 #experience {
   background-image: url("./resources/green-chameleon-s9CC2SKySJM-unsplash.jpg");
-  background-position-y: -0px;
+/*   background-position-y: -0px;
+  background-size: cover; */
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
