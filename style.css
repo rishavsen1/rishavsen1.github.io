@@ -42,6 +42,10 @@ a {
   background-image: url("./resources/PANO_20190608_142402.vr.jpg");
 }
 
+.index h4{
+  text-shadow: 1px 1px 1px rgb(163, 163, 163);
+}
+
 #about {
   background-image: url("./resources/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg");
   background-size: cover;
