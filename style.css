@@ -45,7 +45,8 @@ a {
 #about {
   background-image: url("./resources/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg");
   background-size: cover;
-  background-position-y: -150px;
+  height: 100%,
+/*   background-position-y: -150px; */
 }
 
 #experience {
@@ -56,7 +57,7 @@ a {
 
 #education {
   background-image: url("./resources/jess-bailey-l3N9Q27zULw-unsplash.jpg");
-  background-position-y: -180px;
+  background-position-y: -260px;
   background-size: cover;
 }
 
